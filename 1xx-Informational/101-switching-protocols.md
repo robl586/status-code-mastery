@@ -103,9 +103,9 @@ the server replies with 101 Switching Protocols and establishes a WebSocket conn
 
 ## 🔗 Related Codes
 
-- 100 Continue 🩵
+- [100 Continue 🩵](./100-continue.md)
 
-- 102 Processing ⚙️
+- [102 Processing ⚙️](./102-processing.md)
 
 ---
 

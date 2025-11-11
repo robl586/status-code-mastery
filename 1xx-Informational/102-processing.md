@@ -110,9 +110,9 @@ but this demonstrates how a `102 Processing` would conceptually work.
 
 ## 🔗 Related Codes
 
-- 100 Continue 🩵
+- [100 Continue 🩵](./100-continue.md)
 
-- 101 Switching Protocols 🔁
+- [101 Switching Protocols 🔁](./101-switching-protocols.md)
 
 ---
 

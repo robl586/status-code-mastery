@@ -93,9 +93,9 @@ Imagine you’re at a restaurant:
 
 ## 🔗 Related Codes
 
-- 101 Switching Protocols 🔁
+- [101 Switching Protocols 🔁](./101-switching-protocols.md)
 
-- 102 Processing ⚙️
+- [102 Processing ⚙️](./102-processing.md)
 
 ## 🧩 Reference
 
