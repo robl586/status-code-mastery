@@ -98,4 +98,4 @@ HTTP/1.1 201 Created
 
 ---
 
-<p align="center">🩵 <strong>Next Up:</strong> <a href="../2xx-Success/README.md">2xx – Success Codes →</a></p>
+<p align="center">🩵 <strong>Next:</strong> <a href="./100-continue.md">101 Continue →</a></p>
