@@ -130,6 +130,8 @@ HTTP/1.1 204 No Content
 
 ---
 
+## 🔗 Related Codes
+
 - [200 OK](./200-ok.md) ✅ OK
 
 - [201 Created](./201-created.md) | 🏗️
