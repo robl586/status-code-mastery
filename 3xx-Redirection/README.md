@@ -34,7 +34,7 @@ This can mean:
 | [303 See Other](./303-see-other.md) | 🔗 Redirect Using GET | Client must fetch another URL with GET. |
 | [304 Not Modified](./304-not-modified.md) | 🗂️ Use Cached Copy | Cached version is still valid — no need to re-download. |
 | [305 Use Proxy](./305-use-proxy.md) | 🖧 Deprecated | Must use a proxy (now unused for security reasons). |
-| **306** | 🚫 No Longer Used | Previously used but now reserved. |
+| [306 Switch Proxy](./306-switch-proxy.md) | 🚫 No Longer Used | Previously used but now reserved. |
 | [307 Temporary Redirect](./307-temporary-redirect.md) | 🔄 Redirect Without Changing Method | Same as 302 but preserves the HTTP method. |
 | [308 Permanent Redirect](./308-permanent-redirect.md) | 📌 Permanent Redirect Without Method Change | Like 301 but method and body are preserved. |
 
